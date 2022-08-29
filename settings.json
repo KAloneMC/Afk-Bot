@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "ChanChetMe.aternos.me",
     "port": 25565,
-    "version": "1.17.1"
+    "version": "1.19"
   },
 
   "position": {
@@ -20,8 +20,8 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "12345678"
+      "enabled": true,
+      "password": "12345678kl"
     },
 
     "anti-afk": {
